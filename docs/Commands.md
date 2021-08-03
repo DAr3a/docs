@@ -18,8 +18,8 @@ title: Commands
 - **`!join`** - Summons the bot to the voice channel you are in.
     - **Aliases:** `summon`
 ---
-- **`!play`** - Plays a song with the given name or url. [**More Info**](/play_song)
-    - **Usage:** `!play <link/query>`
+- **`1play`** - Plays a song with the given name or url. [**More Info**](/play_song)
+    - **Usage:** `1play <link/query>`
     - **Alias:** `p`
 ---
 - **`!playtop`** - Adds a song with the given name/url __on the top of the queue__.
